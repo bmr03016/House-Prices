@@ -1,9 +1,11 @@
 # House-Prices (개인 프로젝트)
 
-## 가설: 리모델링 여부가 주택 가격에 영향을 미칠까?
+## 가설) 리모델링 여부가 주택 가격에 영향을 미칠까?
 
 ### About Data
 📌https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+<br>
 
 > Review
 
